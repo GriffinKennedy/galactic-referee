@@ -16,7 +16,7 @@ Skills practiced:
 
 ---
 
-### 2. [Galactic Referee Practice](https://griffinkennedy.github.io/twine-projects/Galactic%20Referee%20Practice.html)
+### 2. [Galactic Referee Practice](https://griffinkennedy.github.io/twine-projects/Galactic-Referee-Practice.html)
 A more advanced continuation of the first adventure. Players solve **multi-step unit conversion challenges** and must apply what they've learned to identify the true winner in an alien race showdown.
 
 Skills reinforced:
