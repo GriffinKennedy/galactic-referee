@@ -6,7 +6,7 @@ Welcome to my collection of interactive **Twine games** designed for the classro
 
 ## Projects
 
-### 1. [Galactic Referee](https://griffinkennedy.github.io/twine-projects/index.html)
+### 1. [Galactic Referee Training](https://griffinkennedy.github.io/twine-projects/Galactic-Referee-Training.html)
 An interactive game that introduces the concept of **unit conversion** through a fun sci-fi narrative. Students take on the role of a Galactic Referee, comparing alien racers who all report speeds in different units.
 
 Skills practiced:
