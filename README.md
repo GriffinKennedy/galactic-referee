@@ -4,6 +4,14 @@ Welcome to my collection of interactive **Twine games** designed for the classro
 
 ---
 
+## Design Document
+
+📓 [GalacticReferee.ipynb](GalacticReferee.ipynb)  
+An interactive Twine game design doc using storytelling to teach dimensional analysis.
+
+Includes screenshots, scaffolding examples, and branching logic.
+
+
 ## Projects
 
 ### 1. [Galactic Referee Training](https://griffinkennedy.github.io/twine-projects/Galactic-Referee-Training.html)
