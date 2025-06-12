@@ -6,10 +6,17 @@ Welcome to my collection of interactive **Twine games** designed for the classro
 
 ## Design Document
 
-📓 [GalacticReferee.ipynb](GalacticReferee.ipynb)  
+### 1. Galactic Referee Series
+
+📓 [Design Document](GalacticReferee.ipynb)  
 An interactive Twine game design doc using storytelling to teach dimensional analysis.
 
 Includes screenshots, scaffolding examples, and branching logic.
+
+### 2. Advanced Dimensional Analysis
+
+📓 [Design Document](Advanced_DA.ipynb)  
+A sequel to the Galactic Referee series, this Twine game challenges learners to apply dimensional analysis with squared and cubed units in a new sci-fi setting.
 
 
 ## Projects
