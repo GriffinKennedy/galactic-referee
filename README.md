@@ -34,6 +34,17 @@ Skills reinforced:
 
 ---
 
+### 3. [Advanced Dimensional Analysis](https://griffinkennedy.github.io/twine-projects/Advanced-DA.html)  
+A story-driven sequel that challenges players with **complex unit conversions** across time-warped anomalies. As the ChronoSkiff’s onboard analyst, students must stabilize reality using square and cubic conversions, chained ratios, and logic-based dimensional reasoning.
+
+Skills practiced:
+- Area and volume unit conversions  
+- Chained dimensional analysis  
+- Interpreting squared and cubed units in context
+
+
+---
+
 ## How to Use
 
 1. Click any of the links above to launch the activity in your browser.
